@@ -1,0 +1,19 @@
+{
+  
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.20",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0"
+  },
+  "name": "9.-node-js",
+  "version": "1.0.0",
+  "description": "Help learn Nodejs",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "atharv",
+  "license": "ISC"
+}
